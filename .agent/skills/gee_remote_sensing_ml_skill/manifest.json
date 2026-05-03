@@ -1,0 +1,18 @@
+{
+  "skill_name": "GEE Remote Sensing & Spatial ML Skill",
+  "language": "es",
+  "main_file": "SKILL.md",
+  "created_files": [
+    "README.md",
+    "SKILL.md",
+    "references/datasets_and_sensors.md",
+    "references/deployment_and_reproducibility.md",
+    "references/methods_remote_sensing.md",
+    "references/spatial_ml_validation.md",
+    "scripts/gee_javascript/gee_indices_and_export_template.js",
+    "scripts/python/geemap_workflow_template.py",
+    "scripts/r/rgee_workflow_template.R",
+    "templates/analysis_plan_template.md",
+    "templates/spatial_model_validation_checklist.md"
+  ]
+}
